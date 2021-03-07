@@ -15,14 +15,9 @@ A more detailed introduction can be found [here](docs/wsdm2021-tutorial.pdf).
 <!-- #### **NEW: All the slides are available now!** -->
 <!-- We recommend reading our draft slides before the tutorial. We may have some minor last-minute changes, so please check out the latest version before the live session. -->
 
-1. [Introduction](slides/part1-introduction.pdf)
-1. [Probability ranking principle](slides/part2-prp.pdf)
-1. [Feature based ranking method](slides/part3-feature-based-ranking-method.pdf)
-1. [Deep text matching model](slides/part4-deep-text-matching-model.pdf)
-1. [Limitations of probability ranking principle](slides/part5-prp-limitation.pdf)
-1. [Ranking with sequential dependency](slides/part6-sequential-ranking.pdf)
-1. [Ranking with global dependency](slides/part7-global-ranking.pdf)
-1. [Conclusion](slides/part8-conclusion.pdf)
+1. [Introduction](slides/Part1-Introduction.pdf)
+1. [Ranking with Sequential Dependency](slides/Part2-Sequensial Dependency.pdf)
+1. [Ranking with global dependency](slides/Part3-Global Dependency)
 
 ## Reading List
 

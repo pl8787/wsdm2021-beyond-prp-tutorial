@@ -1,5 +1,5 @@
 # WSDM2021 Tutorial
-## Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
+<h2> Beyond Probability Ranking Principle: Modeling the Dependencies among Documents </h2>
 
 This [WSDM2021 tutorial](http://www.wsdm-conference.org/2021/tutorials.php#4) will be held on Monday, March 8th, 2021, with online mode, by [Liang Pang](http://www.bigdatalab.ac.cn/~pangliang/) `<pangliang[AT]ict.ac.cn>`, [Qingyao Ai](http://ir.aiqingyao.org/) `<aiqy[AT]cs.utah.edu>`, and [Jun Xu](http://ai.ruc.edu.cn/academicfaculty/20191112002.html) `<junxu[AT]ruc.edu.cn>`. 
 

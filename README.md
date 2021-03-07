@@ -1,6 +1,6 @@
 # WSDM2021 Tutorial: Beyond Probability Ranking Principle: Modeling the Dependencies among Documents
 
-This WSDM2021 tutorial will be held on Monday, March 8th, 2021, with online mode, by [Liang Pang](http://www.bigdatalab.ac.cn/~pangliang/) `<pangliang[AT]ict.ac.cn>`, [Qingyao Ai](http://ir.aiqingyao.org/) `<aiqy[AT]cs.utah.edu>`, and [Jun Xu](http://ai.ruc.edu.cn/academicfaculty/20191112002.html) `<junxu[AT]ruc.edu.cn>`. 
+This [WSDM2021 tutorial](http://www.wsdm-conference.org/2021/tutorials.php#4) will be held on Monday, March 8th, 2021, with online mode, by [Liang Pang](http://www.bigdatalab.ac.cn/~pangliang/) `<pangliang[AT]ict.ac.cn>`, [Qingyao Ai](http://ir.aiqingyao.org/) `<aiqy[AT]cs.utah.edu>`, and [Jun Xu](http://ai.ruc.edu.cn/academicfaculty/20191112002.html) `<junxu[AT]ruc.edu.cn>`. 
 
 ## Overview
 Probability Ranking Principle (PRP) is the fundamental principle for ranking, which assumes that each document has a unique and independent probability to satisfy a particular information need. Previously, traditional heuristic features and well-known learning-to-rank approaches are designed following PRP principle. Besides, recent deep learning enhanced ranking models, also referred to as ``deep text matching'', also obey PRP principle. However, PRP is not an optimal for ranking, due to each document is not independent from the rest in many recent ranking tasks, such as pseudo relevance feedback, interactive information retrieval and so on. 
@@ -10,10 +10,11 @@ This tutorial mainly consists of three parts. Firstly, we introduce the ranking 
 
 A more detailed introduction can be found [here](docs/wsdm2021-tutorial.pdf).
 
-## Tutorial Slides
+## Schedule
 
-<!-- #### **NEW: All the slides are available now!** -->
-<!-- We recommend reading our draft slides before the tutorial. We may have some minor last-minute changes, so please check out the latest version before the live session. -->
+![schedule](docs/schedule.png)
+
+## Tutorial Slides
 
 1. [Introduction](slides/Part1-Introduction.pdf)
 1. [Ranking with Sequential Dependency](slides/Part2-Sequensial%20Dependency.pdf)

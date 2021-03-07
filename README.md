@@ -16,8 +16,8 @@ A more detailed introduction can be found [here](docs/wsdm2021-tutorial.pdf).
 <!-- We recommend reading our draft slides before the tutorial. We may have some minor last-minute changes, so please check out the latest version before the live session. -->
 
 1. [Introduction](slides/Part1-Introduction.pdf)
-1. [Ranking with Sequential Dependency](slides/Part2-Sequensial Dependency.pdf)
-1. [Ranking with Global Dependency](slides/Part3-Global Dependency.pdf)
+1. [Ranking with Sequential Dependency](slides/Part2-Sequensial%20Dependency.pdf)
+1. [Ranking with Global Dependency](slides/Part3-Global%20Dependency.pdf)
 
 ## Reading List
 

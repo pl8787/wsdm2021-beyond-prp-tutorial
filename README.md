@@ -17,9 +17,9 @@ A more detailed introduction can be found [here](docs/wsdm2021-tutorial.pdf).
 
 ## Tutorial Slides and Presentations
 
-1. [Part1] Introduction [[Slide]](slides/Part1-Introduction.pdf) [[B站]](https://www.bilibili.com/video/BV1eV411Y7w1/) [[YouTube]](https://youtu.be/TKKJR9-Pwf4)
-1. [Part2] Ranking with Sequential Dependency [[Slide]](slides/Part2-Sequensial%20Dependency.pdf) [[B站]](https://www.bilibili.com/video/BV1t5411K76U/) [[YouTube]](https://youtu.be/Rp9st_vloqs)
-1. [Part3] Ranking with Global Dependency [[Slide]](slides/Part3-Global%20Dependency.pdf) [[B站]](https://www.bilibili.com/video/BV14Z4y1P7P4/) [[YouTube]](https://youtu.be/pg85YfattKI)
+1. [Part1] Introduction [[Slide]](slides/Part1-Introduction.pdf) [[B站]](https://www.bilibili.com/video/BV1eV411Y7w1/) [[YouTube]](https://youtu.be/TKKJR9-Pwf4&list=PLa580C4Qeh_MJ-Wklgeth-Qu35Xrgv2CI)
+1. [Part2] Ranking with Sequential Dependency [[Slide]](slides/Part2-Sequensial%20Dependency.pdf) [[B站]](https://www.bilibili.com/video/BV1t5411K76U/) [[YouTube]](https://youtu.be/Rp9st_vloqs&list=PLa580C4Qeh_MJ-Wklgeth-Qu35Xrgv2CI)
+1. [Part3] Ranking with Global Dependency [[Slide]](slides/Part3-Global%20Dependency.pdf) [[B站]](https://www.bilibili.com/video/BV14Z4y1P7P4/) [[YouTube]](https://youtu.be/pg85YfattKI&list=PLa580C4Qeh_MJ-Wklgeth-Qu35Xrgv2CI)
 
 ## Reading List
 
